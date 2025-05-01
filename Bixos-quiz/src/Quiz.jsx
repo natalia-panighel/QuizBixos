@@ -127,17 +127,7 @@ const questions = [
       { text: "É o curso dos meus sonhos e sigo com paixão", personality: "Bixo Artista" },
       { text: "É difícil, mas sempre dou um jeito de seguir", personality: "Bixo Sobrevivente" }
     ]
-  },
-  {
-    question: "Qual dessas atividades você mais se identifica?",
-    answers: [
-      { text: "Fazer artes e expressar criatividade", personality: "Bixo Artista" },
-      { text: "Estudar e buscar conhecimento", personality: "Bixo Estudioso" },
-      { text: "Mobilizar pessoas por uma causa", personality: "Bixo Engajado" },
-      { text: "Conversar e fazer novas amizades", personality: "Bixo Social" }
-    ]
   }
-}
 ];
 
 const Quiz = () => {
